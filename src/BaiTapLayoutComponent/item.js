@@ -47,7 +47,7 @@ class Item extends Component {
           <div className="card bg-light border-0 h-100">
             <div className="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
               <div
-                className=" justify-content-center align-items-center bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
+                className = {`justify-content-center align-items-center bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4`}
                 style={{
                   width: 64,
                   height: 64,

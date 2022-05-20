@@ -9,6 +9,7 @@ class BaiTapThucHanhLayout extends Component {
                 <Header/>
                 <Body />
                 <Footer />
+                
             </div>
         );
     }
